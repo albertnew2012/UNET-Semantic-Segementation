@@ -8,7 +8,7 @@ The code repo was inspired by [U-Net: Convolutional Networks for Biomedical Imag
 
 ### Data
 
-The original dataset is from cityscape [eftImg8bit_demoVideo.zip (6.6GB)](https://www.cityscapes-dataset.com/downloads/) 
+The original dataset is from cityscape [leftImg8bit_trainvaltest.zip (11GB)](https://www.cityscapes-dataset.com/downloads/) 
 and [gtFine_trainvaltest.zip (241MB)](https://www.cityscapes-dataset.com/downloads/). It contains 3500 images from multiple 
 cities in Europe and comes with finely annomated labeling images. Although it is open source, you need to create an account
 to download these images.
