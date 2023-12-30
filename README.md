@@ -15,7 +15,7 @@ to download these images.
 
 
 ### Data augmentation
-As the number of images 3500 is decently large, thus I augumentation is really implemented. But the images and masks are 
+As the number of images 3500 is not large enough, thus augumentation is implemented. The images and masks are 
 read in to RAM on the fly with ImageDataGenerator.
 
 
